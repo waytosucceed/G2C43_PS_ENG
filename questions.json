@@ -1,0 +1,213 @@
+{
+  "heading": "Compound Words",
+  "topics": [
+    {
+      "heading": "Compound Words",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Choose the correct word:<br> Sun + ______ = Sunshine",
+          "options": [
+            { "text": "Shine" },
+            { "text": "Shiney" },
+            { "text": "Shiny" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 2,
+          "question": "Choose the correct word:<br>Foot + ______ = Footprint",
+          "options": [
+            { "text": "Print" },
+            { "text": "Paint" },
+            { "text": "Printer" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 3,
+          "question": "Choose the correct word:<br>Play + ______ = Playground",
+          "options": [
+            { "text": "Grownup" },
+            { "text": "Grown" },
+            { "text": "Ground" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 4,
+          "question": "Choose the correct compound word:<br>We went to the _____ to play.",
+          "options": [
+            { "text": "Field" },
+            { "text": "Toothbrush" },
+            { "text": "Playground" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 5,
+          "question": "Choose the correct compound word:<br>The _____ flew by in the garden.",
+          "options": [
+            { "text": "Butterfly" },
+            { "text": "Butterwing" },
+            { "text": "Butterflyer" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 6,
+          "question": "Choose the correct word:<br>Foot + ______ = Footwear",
+          "options": [
+            { "text": "Wearer" },
+            { "text": "Wear" },
+            { "text": "Weariness" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 7,
+          "question": "Choose the correct word:<br>Thumb + ______ = Thumbprint",
+          "options": [
+            { "text": "Print" },
+            { "text": "Mark" },
+            { "text": "Stamp" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 8,
+          "question": "Choose the correct compound word:<br>She loves to read at _____.",
+          "options": [
+            { "text": "Footprint" },
+            { "text": "Bedtime" },
+            { "text": "Play" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "Choose the correct word:<br>Rain + ______ = Raincoat",
+          "options": [
+            { "text": "Coat" },
+            { "text": "Wet" },
+            { "text": "Jacket" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 10,
+          "question": "Choose the correct compound word:<br>We made a _____ out of snow.",
+          "options": [
+            { "text": "Snowman" },
+            { "text": "Showman" },
+            { "text": "Picture" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 11,
+          "question": "Choose the correct word:<br>Sea + ______ = Seashore",
+          "options": [
+            { "text": "Sandy" },
+            { "text": "Shore" },
+            { "text": "Coast" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 12,
+          "question": "Choose the correct word:<br><img width='80%' src='./assests/images/1.png'>",
+          "options": [
+            { "text": "Board" },
+            { "text": "Boat" },
+            { "text": "Deck" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 13,
+          "question": "Choose the correct word:<br><img width='80%' src='./assests/images/2.png'>",
+          "options": [
+            { "text": "Flake" },
+            { "text": "Snowdrop" },
+            { "text": "Winter" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 14,
+          "question": "What do you call the marks left by feet?",
+          "options": [
+            { "text": "Tailprints" },
+            { "text": "Handprints" },
+            { "text": "Footprints" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 15,
+          "question": "Which word means the time when the sun is shining?",
+          "options": [
+            { "text": "Night" },
+            { "text": "Daytime" },
+            { "text": "Moonlight" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 16,
+          "question": "What is an example of a compound word?",
+          "options": [
+            { "text": "Ground" },
+            { "text": "Playground" },
+            { "text": "Play" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 17,
+          "question": "What is moonlight?",
+          "options": [
+            { "text": "The light from the moon" },
+            { "text": "The light from the sun" },
+            { "text": "A type of star" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word means the time spent playing?",
+          "options": [
+            { "text": "Playtime" },
+            { "text": "Homework" },
+            { "text": "Lunchtime" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 19,
+          "question": "Which of these is a compound word?",
+          "options": [
+            { "text": "Night" },
+            { "text": "Time" },
+            { "text": "Nighttime" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 20,
+          "question": "Fill in the missing word:<br><img width='80%' src='./assests/images/3.png'>",
+          "options": [
+            { "text": "Classmate" },
+            { "text": "Classtime" },
+            { "text": "Classy" }
+          ],
+          "answer": 0
+        }
+      ]
+      
+      
+      
+    }
+  ]
+}
